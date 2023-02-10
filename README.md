@@ -1,5 +1,6 @@
 # Feedback-Prize-English-Language-Learning
-Описание и код решения соревнования Feedback Prize - English Language Learning
+Описание и код решения соревнования [Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)
+**Результат**: 54/2654 (top 3%)
 
 ## Постановка задачи
 По набору эссе учеников 8-12 классов построить модель, оценивающую эссе по 6 критериям: грамматика, пунктуация, словарный запас, фразеология, логическая связность текста, языковая конвенция. Оценки эссе в обучающей выборке варьируются от 1 до 5 с шагом 0.5.
